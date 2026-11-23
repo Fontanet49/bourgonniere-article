@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fontanet49.github.io/bourgonniere-article/sitemap.xml
